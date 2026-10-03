@@ -1,0 +1,6 @@
+interface:
+  display_name: "Canada Study Choice"
+  short_description: "Explore affordable, evidence-backed Canada study options"
+  default_prompt: "Use $canada-study-choice to explore affordable Canadian post-secondary options for one Grade 12 student, starting with the minimum information needed."
+policy:
+  allow_implicit_invocation: true
